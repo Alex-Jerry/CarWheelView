@@ -2,4 +2,4 @@
 小程序中自定义汽车方向盘
 ### 预览图
 
-![WheelView.gif](https://upload-images.jianshu.io/upload_images/3884117-fc3676de4bfd67ba.gif?imageMogr2/auto-orient/strip)
+![方向盘.gif](https://upload-images.jianshu.io/upload_images/3884117-e95228082de7f2ff.gif?imageMogr2/auto-orient/strip)
